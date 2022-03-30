@@ -5,8 +5,6 @@ This App uses [`Weather API`](https://www.weatherapi.com/) and `PageView` to dis
   2. Next page for custom locations
       - Uses `ChangeNotifierProvider`to provide `addedLocations` to the Scaffold's AppBar's `IconButton` and Scaffold's `body`
       - Uses `SharedPreferences` to save the added locations even after the app is closed
-      - Uses `AnimatedList` to display location add and remove animation
-      - also Vibrates the phone when any `ListTile` is long pressed
 
 ## Thanks a lot for visting my project
 
