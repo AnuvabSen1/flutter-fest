@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:weather/Pages/widgets/weather_card.dart';
+import 'package:weather/pages/widgets/weather_card.dart';
 
 class AddedLocations with ChangeNotifier {
   Set<String> _locations = {};

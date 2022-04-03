@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:weather/Pages/added_location_page/added_locations.dart';
+import 'package:weather/pages/added_location_page/added_locations.dart';
 
 class AddLocAlert extends StatefulWidget {
   const AddLocAlert({Key? key, required this.addedLocations}) : super(key: key);

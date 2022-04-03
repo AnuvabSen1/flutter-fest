@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:weather/Pages/added_location_page/added_locations.dart';
-import 'package:weather/Pages/widgets/add_loc_alert.dart';
-import 'package:weather/Pages/widgets/weather_card.dart';
+import 'package:weather/pages/added_location_page/added_locations.dart';
+import 'package:weather/pages/widgets/add_loc_alert.dart';
+import 'package:weather/pages/widgets/weather_card.dart';
 import 'package:provider/provider.dart';
 
 class AddedLocationPage extends StatelessWidget {
