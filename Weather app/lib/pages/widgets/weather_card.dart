@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:weather/Pages/added_location_page/added_locations.dart';
-import 'package:weather/Pages/curr_location_page.dart';
-import 'package:weather/Pages/widgets/mixin/weather.dart';
+import 'package:weather/pages/added_location_page/added_locations.dart';
+import 'package:weather/pages/curr_location_page.dart';
+import 'package:weather/pages/widgets/mixin/weather.dart';
 
 import 'package:weather/utils/time_widget.dart';
 import 'package:weather/utils/weather_info.dart';

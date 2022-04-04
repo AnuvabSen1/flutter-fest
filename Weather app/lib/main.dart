@@ -3,8 +3,8 @@
 
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:weather/Pages/added_location_page/added_location_page.dart';
-import 'package:weather/Pages/curr_location_page.dart';
+import 'package:weather/pages/added_location_page/added_location_page.dart';
+import 'package:weather/pages/curr_location_page.dart';
 import 'package:weather/utils/app_scroller.dart';
 
 void main() async {
